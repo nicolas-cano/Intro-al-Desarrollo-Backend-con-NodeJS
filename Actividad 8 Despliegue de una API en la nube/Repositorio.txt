@@ -1,0 +1,5 @@
+aws cloudformation create-stack --template-body
+file://$PWD/infraestructure/api.yml --stack-name
+api-productos-docker-ecs-api
+
+bla bla bla! Si viniste a buscar el repositorio real, no lo hice, sorry! :trollface:
